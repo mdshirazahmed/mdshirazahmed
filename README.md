@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdshirazahmed
-- 👀 I’m interested in Power BI development and also interested in Full-Stack Web development.
-- 🌱 I’m currently learning Advanced Data Analysis technologies and Business statistics.
-- 💞️ I’m looking to collaborate on Power BI templates, advanced DAX functions and more in development. 
+- 👀 I’m currently working on Power BI and also interested in Full-Stack Web development.
+- 🌱 Even learning Advanced Data Analysis technologies and Business statistics.
+- 💞️ I’m looking to collaborate on BI templates, advanced DAX functions and more in the development area. 
 - 📫 How to reach me, reach out via Skype id: live:e43b3ae8f0908afb
 
 <!---
